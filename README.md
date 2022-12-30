@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Front-end and Back-end web technologies using Python, Javascript, HTML, CSS.
+- 🌱 I’m currently learning Python for automation
+- 👯 I’m looking to collaborate on projects that involve web development and python
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about python, web development
+- 📫 You can reach me at: anushya816@gmail.com
+- 😄 Pronouns: She/Her
 
 <!--
 **anushyanu/anushyanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
